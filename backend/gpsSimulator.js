@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzcxNDI5MzgwLCJleHAiOjE3NzE1MTU3ODB9.TS7ia0gwOl8-rBn8J-Eg1boDnDjjQnB4wez_FmYaB6I";
+const TOKEN = "TOKEN";
 
 let machines = [];
 const positions = {};
